@@ -1,0 +1,37 @@
+{
+  "short_name": "Doctor's Diary",
+  "name": "Doctor's Diary",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "default_locale": "en",
+  "locales": {
+    "en": {
+      "name": "Doctor's Diary",
+      "description": "A secure diary application for medical professionals"
+    },
+    "de": {
+      "name": "Arzttagebuch",
+      "description": "Eine sichere Tagebuch-Anwendung für medizinisches Fachpersonal"
+    }
+  }
+}
