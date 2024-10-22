@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Doctor's Diary",
+  "name": "Doctor's Diary",
   "icons": [
     {
       "src": "favicon.ico",
@@ -19,7 +19,19 @@
     }
   ],
   "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "background_color": "#ffffff",
+  "default_locale": "en",
+  "locales": {
+    "en": {
+      "name": "Doctor's Diary",
+      "description": "A secure diary application for medical professionals"
+    },
+    "de": {
+      "name": "Arzttagebuch",
+      "description": "Eine sichere Tagebuch-Anwendung für medizinisches Fachpersonal"
+    }
+  }
 }
