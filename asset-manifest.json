@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/doctor-diary/static/css/main.315f9921.css",
-    "main.js": "/doctor-diary/static/js/main.ba311705.js",
+    "main.css": "/doctor-diary/static/css/main.c8515012.css",
+    "main.js": "/doctor-diary/static/js/main.cd8d210e.js",
     "service-worker.js": "/doctor-diary/service-worker.js",
     "index.html": "/doctor-diary/index.html",
     "static/media/getFetch.cjs": "/doctor-diary/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.315f9921.css.map": "/doctor-diary/static/css/main.315f9921.css.map",
-    "main.ba311705.js.map": "/doctor-diary/static/js/main.ba311705.js.map"
+    "main.c8515012.css.map": "/doctor-diary/static/css/main.c8515012.css.map",
+    "main.cd8d210e.js.map": "/doctor-diary/static/js/main.cd8d210e.js.map"
   },
   "entrypoints": [
-    "static/css/main.315f9921.css",
-    "static/js/main.ba311705.js"
+    "static/css/main.c8515012.css",
+    "static/js/main.cd8d210e.js"
   ]
 }
