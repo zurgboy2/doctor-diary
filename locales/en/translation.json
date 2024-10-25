@@ -1,6 +1,6 @@
 {
     "appName": "Doctor's Diary",
-    "singIn": "Sign In",
+    "signIn": "Sign In",
     "biometric": "Use Biometric Login",
     "createAccount":"Create Account",
     "welcome": "Welcome",
@@ -31,5 +31,6 @@
     "deleteAccountConfirmTitle": "Delete Account",
     "deleteAccountConfirmMessage": "Are you sure you want to delete your account? This action cannot be undone and will delete all your entries and documents.",
     "confirmDelete": "Delete",
-    "confirmCancel": "Cancel"
+    "confirmCancel": "Cancel",
+    "startWriting": "Write new entry..."
   }
